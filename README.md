@@ -34,23 +34,11 @@ This project demonstrates a simple portfolio application built using the **MVC (
 
 The application uses the following database schema:
 
-- **`admins`**  
-  Stores admin usernames and hashed passwords for backend authentication.
-
-- **`users`**  
-  Holds user credentials for frontend interaction.
-
-- **`portfolio`**  
-  Contains information about portfolio sections.
-
 - **`project`**  
   Stores details about projects such as name, image, and description.
 
 - **`services`**  
   Lists available services and their corresponding skill levels.
-
-- **`sections`**  
-  Defines sections for content organization.
 
 - **`website`**  
   Stores general website metadata like name, email, and contact details.
@@ -76,7 +64,7 @@ The project adheres to the following MVC principles:
 
 1. **Model Class (`model.class.php`)**  
    Interacts with the database and retrieves application data.
-2. **View Class (`view.class.php`)**  
+2. **View Class (`view.class.php`) comming soon**  
    Renders dynamic pages using data fetched from the model.
 3. **Controller Class (`controler.class.php`)**  
    Manages application logic and mediates between the model and view.
