@@ -1,5 +1,19 @@
 ## Simple Portfolio Using MVC Architecture
 
+---
+
+### Screenshots
+
+#### Main Page
+
+![Main Page](mainpage.png)
+
+#### Admin Page
+
+![Admin Page](adminpage.png)
+
+---
+
 ### Introduction
 
 This project demonstrates a simple portfolio application built using the **MVC (Model-View-Controller)** architectural pattern. It serves as an example of how modular and maintainable PHP applications can be developed while integrating database-driven content.
@@ -68,18 +82,6 @@ The project adheres to the following MVC principles:
    Manages application logic and mediates between the model and view.
 4. **Frontend**  
    Styled using `style.css` and organized with reusable components.
-
----
-
-### Screenshots
-
-#### Main Page
-
-![Main Page](mainpage.png)
-
-#### Admin Page
-
-![Admin Page](adminpage.png)
 
 ---
 
